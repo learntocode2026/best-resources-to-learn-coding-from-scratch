@@ -44,13 +44,11 @@ Reading code is different from writing it daily. I discovered “Automate the Bo
 
 **4. Educative.io: In-Depth, Text-Based Tutorials for Deeper Concepts**
 
-As your skills mature, you’ll face challenges like mastering algorithms or system design. Educative offers dense, coding-interactive courses without relying on video—perfect if you want to learn by reading and practicing side-by-side.
+As your skills mature, you’ll face challenges like mastering algorithms or system design. Educative offers dense, [coding interview courses]([url](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096)) without relying on video—perfect if you want to learn by reading and practicing side-by-side.
 
 - **My favorite:** “Grokking the Coding Interview” course helped me unlock multiple FAANG offers.
 - **Engineering tradeoff:** Text-first learning keeps you engaged but requires discipline—a skill worth cultivating.
 - **Takeaway:** Build muscle memory by writing your own code answers after each lesson.
-
-[Explore Educative's coding interview course]([url](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096))
 
 ---
 
