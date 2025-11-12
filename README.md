@@ -109,9 +109,4 @@ Remember: *Programming is a craft. You learn by doing, breaking, fixing, and ite
 
 ---
 
-**Further Reading & Resources**  
-- [Educative's Grokking course]([url](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096))  
-- [DesignGurus.io System Design Path](https://designgurus.io/path/7-step-master-system-design-interview)  
-- [Automate the Boring Stuff Online Course](https://www.udemy.com/course/automate/)  
-
 Happy coding! 🚀
