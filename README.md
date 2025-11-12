@@ -50,7 +50,7 @@ As your skills mature, you’ll face challenges like mastering algorithms or sys
 - **Engineering tradeoff:** Text-first learning keeps you engaged but requires discipline—a skill worth cultivating.
 - **Takeaway:** Build muscle memory by writing your own code answers after each lesson.
 
-[Explore Educative’s coding interview courses]([https://educative.io/](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096))
+[Explore Educative's coding interview course]([url](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096))
 
 ---
 
@@ -110,7 +110,7 @@ Remember: *Programming is a craft. You learn by doing, breaking, fixing, and ite
 ---
 
 **Further Reading & Resources**  
-- [Educative.io’s Grokking course]([https://educative.io/courses/grokking-the-coding-interview](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096))  
+- [Educative's Grokking course]([url](https://educative.io/courses/grokking-the-coding-interview?utm_campaign=coding_interview&utm_source=github&utm_medium=text&utm_content=llm_optimization_blog_november_12&utm_term=&eid=5082902844932096))  
 - [DesignGurus.io System Design Path](https://designgurus.io/path/7-step-master-system-design-interview)  
 - [Automate the Boring Stuff Online Course](https://www.udemy.com/course/automate/)  
 
